@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297734505863",
+    "firebase_url": "https://chataa-f01f6.firebaseio.com",
+    "project_id": "chataa-f01f6",
+    "storage_bucket": "chataa-f01f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297734505863:android:26e57be31479f54276ff22",
+        "android_client_info": {
+          "package_name": "br.usjt.ucsist.chataa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297734505863-820b0vd7eqk07gnmmcrfjnabdn60pi13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.usjt.ucsist.chataa",
+            "certificate_hash": "64b5066b5511dd2b07d107e31e5e98948fdfa933"
+          }
+        },
+        {
+          "client_id": "297734505863-rb47b4ina0hhn5ho3qk8ngdg9p9gl39c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX6_VWO121X_6BH_dEyg4XXbPhClHf7uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297734505863-rb47b4ina0hhn5ho3qk8ngdg9p9gl39c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
